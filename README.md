@@ -1,1 +1,1 @@
-# programming2_tasks
+Interesting C++ projects from second academic term.
