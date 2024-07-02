@@ -171,7 +171,7 @@ public:
     unsigned int getDamage (){
         return attack;
     }
-    void takeDamage (unsigned int damage){ //moze byc blad !!!!
+    void takeDamage (unsigned int damage){
 
         unsigned int temp = (damage - (defence + agility));
         if ((defence + agility) > damage) return;
