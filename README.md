@@ -1,1 +1,1 @@
-Interesting C++ projects from second academic term.
+Interesting C/C++ projects from second academic term.
